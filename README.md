@@ -1,1 +1,4 @@
-# Yandex_praktikum_projects
+# Репозиторий содержит примеры 3 учебных проектов:
+Online game shop - Работа с интернет-магазином «Стримчик».
+Business analysis - Анализ бизнес-показателей. 
+Business decision-making - Принятие решений в бизнесе. 
